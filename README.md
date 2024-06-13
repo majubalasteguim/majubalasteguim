@@ -1,16 +1,17 @@
-## Hi there 👋
+## olaa!! bem vindoo
 
-<!--
-**majubalasteguim/majubalasteguim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ mateus 6;33
+ 
+ "Busquem, pois, em primeiro lugar o Reino de Deus e a sua justiça,
+ 
+ e todas essas coisas lhes serão acrescentadas." ❤
+ 
+ .
+ 
+my name is maju :) 
 
-Here are some ideas to get you started:
+minhas principais atividades na plataforma:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*aulas do alura, programação javascript
+
+inst: @majubalasteguim
